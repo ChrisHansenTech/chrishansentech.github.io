@@ -5,8 +5,6 @@ categories: ["Home Assistant"]
 tags: homeassistant alexa
 ---
 
-# Integrate SharkIQ with Home Assistant using Alexa
-
 I have two SharkIQ robot vacuums and initially set up the SharkIQ integration in Home Assistant. Of course, as soon as I finished configuring everything the way I liked it, with dashboard buttons to control the vacuums, Shark decided to block third-party access to their API.
 
 For a while, I resorted to using the SharkIQ app on my iPhone, but I quickly became frustrated with its slow performance and frequent sign-in prompts.
