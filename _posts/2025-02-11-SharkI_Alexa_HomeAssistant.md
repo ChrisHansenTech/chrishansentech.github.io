@@ -29,9 +29,11 @@ To implement this integration, you'll need the following:
 To enable vacuum controls in Home Assistant, we will create a [Template Vacuum](https://www.home-assistant.io/integrations/vacuum.template/).
 
 1. In your `configuration.yaml` file, add the following line:
+
 ```yaml
 vacuum: !include vacuums.yaml
 ```
+
 2. Create a `vacuums.yaml` file and add the following configuration:
 
 ```yaml
