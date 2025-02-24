@@ -9,8 +9,6 @@ image:
   lqip: data:image/webp;base64,UklGRuwAAABXRUJQVlA4WAoAAAAQAAAAEwAACgAAQUxQSB0AAAABHyAQIJz5z1BiIyKCEwTZNgazq+c9LxDR/xh6AABWUDggqAAAADAFAJ0BKhQACwA+kTiXR6WjIiEwCACwEglsAJ0yhHcmgiowp9RYmjvSeQjgKG8yjcgAAP7qV+JDnTRepI6jUdIpnU758DuqA7aZxZw4MGvlBewQyMf9qqKUdakaq18YE56t/QVgaRsOUFXYrPZKApGUTr02iR70UWUyDQ3cTN9zD7S1H5q1StoF6LRS34B4thkK0QX4sLTMvuwlIrkrRbZXSIFPqkQAAA==
 ---
 
-# Smart Home Dashboard with Raspberry Pi  & Chromium OS
-
 Recently, I've noticed that I've been late for meetings or forgetting personal obligations and appointments. Notifications on my watch and phone help, but when I get too focused on my work or assisting someone else, I tend to ignore them.
 
 As an avid Home Assistant user, I figured I could repurpose an old Fire HD tablet and a wireless charging stand to create a Home Assistant dashboard for my desk to display my calendar and other information. However, while browsing Amazon for a wireless charging stand, I came across a 10-inch touchscreen case for the Raspberry Pi—and since I had a few Raspberry Pis lying around, I decided to go that route.
