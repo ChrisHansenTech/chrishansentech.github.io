@@ -16,7 +16,7 @@ I created this space to share **practical solutions, integrations, and automatio
 - **Efficiency Hacks** – Using automation to streamline everyday tasks  
 
 I'm also exploring **YouTube as a platform** to share even more in-depth tutorials and real-world automation ideas. If you're into **Home Assistant, automation, or making tech work better for you**, you're in the right place.  
-<br>
-<br>
+
 >**Affiliate Disclosure**  
 Chris Hansen Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, I earn from qualifying purchases.
+{: .prompt-info }

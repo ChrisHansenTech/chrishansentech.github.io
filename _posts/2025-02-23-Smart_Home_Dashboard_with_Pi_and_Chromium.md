@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smart Home Dashboard with Raspberry Pi  & Chromium OS
+title: Smart Home Dashboard with Raspberry Pi and Chromium OS
 date: 2025-02-23 07:50:00 -500
 categories: ["Home Assistant"]
 tags: homeassistant RaspberryPi ChromiumOS
@@ -25,10 +25,11 @@ The basic setup I ended up using includes the touchscreen, a Raspberry Pi 4, and
 
 >**Affiliate Disclosure**  
 Chris Hansen Tech is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, I earn from qualifying purchases.
+{: .prompt-info }
 
 - [**10.1-inch Touchscreen for Raspberry Pi 5/4B/3B+/3B/B+**](https://amzn.to/3QCRdUF)
 - [**Raspberry Pi 4 (4GB)**](https://amzn.to/3WZfhV2)
-- [SanDisk Ultra 128GB MicroSD Card](https://amzn.to/4gESWDs)
+- [**SanDisk Ultra 128GB MicroSD Card**](https://amzn.to/4gESWDs)
 - [**GeekPI 2pc Quiet Pi Cooling Fan**](https://amzn.to/3CRdcE0)
 
 
