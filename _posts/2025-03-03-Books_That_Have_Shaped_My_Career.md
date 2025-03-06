@@ -2,7 +2,7 @@
 title: "Books That Have Shaped My Career"
 date: 2025-03-03 10:30:00 -500
 categories: ["Books"]
-tags: books techlead career
+tags: books tech-lead career
 image:
   path: /assets/img/headers/2025-03-03-Header.webp
   lqip: data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABwBACdASoUAAsAPpE4l0eloyIhMAgAsBIJZACdMoR3ACkSLcrTcgrENTdLAAD++IwJou9qzhtPFD5bEfQXsfwO+jSA0fsgXz4lEhxPWX07n+GAfZxdIhpn5Vh9mYwOzg28SqEKrBPOR/w9dYczWQkIW8YTbWhVwK3g70aZYqNpsemHp1wpAAAA

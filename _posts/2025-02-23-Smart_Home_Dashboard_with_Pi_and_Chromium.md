@@ -3,7 +3,7 @@ layout: post
 title: Smart Home Dashboard with Raspberry Pi and Chromium OS
 date: 2025-02-23 07:50:00 -500
 categories: ["Home Assistant"]
-tags: homeassistant RaspberryPi ChromiumOS
+tags: home-assistant raspberry-pi chromium-os
 image:
   path: /assets/img/headers/2025-02-23-Header.webp
   lqip: data:image/webp;base64,UklGRuwAAABXRUJQVlA4WAoAAAAQAAAAEwAACgAAQUxQSB0AAAABHyAQIJz5z1BiIyKCEwTZNgazq+c9LxDR/xh6AABWUDggqAAAADAFAJ0BKhQACwA+kTiXR6WjIiEwCACwEglsAJ0yhHcmgiowp9RYmjvSeQjgKG8yjcgAAP7qV+JDnTRepI6jUdIpnU758DuqA7aZxZw4MGvlBewQyMf9qqKUdakaq18YE56t/QVgaRsOUFXYrPZKApGUTr02iR70UWUyDQ3cTN9zD7S1H5q1StoF6LRS34B4thkK0QX4sLTMvuwlIrkrRbZXSIFPqkQAAA==

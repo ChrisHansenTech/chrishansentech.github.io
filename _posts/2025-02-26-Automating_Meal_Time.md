@@ -2,7 +2,7 @@
 title: "Automating Mealtime: My Aqara Pet Feeder Setup for Three Dogs"
 date: 2025-02-26 10:30:00 -500
 categories: ["Home Assistant"]
-tags: homeassistant aqara pets
+tags: home-assistant aqara pets
 image:
   path: /assets/img/headers/2025-02-26-Header.webp
   lqip: data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBACdASoUAAsAPpE4l0eloyIhMAgAsBIJYwCdMoAlrxW6i1dFeMjeqaz4AP6X7NFl4cnZgyOT4ckh9nguj9x+MixhDeISLaPbCrCm7cRRWGskvc4iUMx5ywkY2l2lNBn0t1cRnWnhrslkFwMpi7HK1VFuummWteGRfzn2MDHSWZRPvQL/+C3GrGV9dgMp2c5LvD/4ayGRYVwXWa2drqRd5E00dg5TAc8N5AAA
