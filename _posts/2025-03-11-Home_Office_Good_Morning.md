@@ -2,7 +2,7 @@
 title: My Home Office Welcomes Me with a Personalized Morning Update
 date: 2025-03-11 14:06:00 -500
 categories: ["Home Assistant"]
-tags: home-assistant automation bluetooth precense
+tags: home-assistant automation bluetooth presense
 image:
   path: /assets/img/headers/2025-03-11-Header.webp
   lqip: data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABQBQCdASoUAAsAPpE4l0eloyIhMAgAsBIJbACdMoRwN4BTAUVULXmbf9l9BMu2qkX6U+AA/tz0F4IKFKnEBYFa29Y1GK8P3RGGu6L9HfC9Nf9Y9kqvBvFrrphw8vus9emBmB0iJUviG9rv2dAFhYVe3/8SSjGBKdu3oCxTPv00rt14xs/dpUPOsdo4bca+l19MHGDgXVsWZC9sYzVd6zyVj/qbpm1+t0O7ZhrshzAD4+Jno0YlOcYAAAA=
